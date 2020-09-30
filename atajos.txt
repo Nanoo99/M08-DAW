@@ -1,0 +1,17 @@
+Pasos para subir una modificación a tu github:
+
+1. git add "fichero" o -A (se añaden todos los cambios)
+2. git commit -m "Motivo por el cual se modifica o que es lo que se sube"
+3. git push origin "rama" (se usa la rama en la que se esté trabajando: master por defecto)
+
+Para bajar los archivos que haya en github:
+
+git pull origin "rama"
+
+Comandos para tratar con ficheros
+
+1. mkdir "nombre carpeta"
+2. cd "nombre carpeta" o cd .. (para ir hacia atras)
+3. touch "nombre archivo"+extension (crear archivo)
+4. nano "archivo".txt (editar .txt)
+
